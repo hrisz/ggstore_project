@@ -164,7 +164,6 @@
             this.label7.Size = new System.Drawing.Size(523, 19);
             this.label7.TabIndex = 57;
             this.label7.Text = "Welcome to GG Store, the ultimate destination for in-game currency";
-            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // label8
             // 
@@ -177,7 +176,6 @@
             this.label8.Size = new System.Drawing.Size(533, 19);
             this.label8.TabIndex = 58;
             this.label8.Text = "top-ups! As a top-notch merchant, GG Store offers gamers a seamless";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // label9
             // 
@@ -190,7 +188,6 @@
             this.label9.Size = new System.Drawing.Size(442, 19);
             this.label9.TabIndex = 59;
             this.label9.Text = "and secure platform to enhance their gaming experience.";
-            this.label9.Click += new System.EventHandler(this.label9_Click);
             // 
             // label10
             // 
@@ -215,7 +212,6 @@
             this.label11.Size = new System.Drawing.Size(380, 19);
             this.label11.TabIndex = 61;
             this.label11.Text = "you to browse and purchase in-game currencies. ";
-            this.label11.Click += new System.EventHandler(this.label11_Click);
             // 
             // pictureBox2
             // 
